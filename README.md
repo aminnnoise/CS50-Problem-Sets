@@ -5,7 +5,7 @@ This repository contains my solutions to the problem sets from Harvard Universit
 - CS50P: Introduction to Programming with Python
 
 ## Course Version
-All solutions in this repository correspond to the 2024 version of Harvard University's CS50 courses.
+All solutions in this repository correspond to the 2025 version of Harvard University's CS50 courses.
 Future versions of the course may include modified or different problem sets.
 
 ## Structure
