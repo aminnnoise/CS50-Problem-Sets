@@ -3,7 +3,6 @@ This repository contains my solutions to the problem sets from Harvard Universit
 
 ## Courses Included
 - CS50P: Introduction to Programming with Python
-- CS50x: Introduction to Computer Science
 
 ## Structure
 Each folder represents a week from the course and contains my personal solutions to the problem sets.
