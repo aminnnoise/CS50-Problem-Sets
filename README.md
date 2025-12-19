@@ -1,12 +1,9 @@
 # CS50P-Problem-Sets
 This repository contains my solutions to the problem sets from Harvard University's CS50 courses.
 
-### My Certificate : 
 ## 🎓 CS50 Python Certificate
+[View Certificate](https://private-user-images.githubusercontent.com/241485144/528778140-1ce45065-1e11-4916-a890-6db86734fd56.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYxNzgzNjEsIm5iZiI6MTc2NjE3ODA2MSwicGF0aCI6Ii8yNDE0ODUxNDQvNTI4Nzc4MTQwLTFjZTQ1MDY1LTFlMTEtNDkxNi1hODkwLTZkYjg2NzM0ZmQ1Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxOVQyMTAxMDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzFlYmQ4YzdlMTcxN2NlZjE0ODBjYTA1M2JlMWRkNGJlOTVkMmFiOGQ0Y2VjZTJjNzA5MWZkOGYyNjAxMGZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CnffOGIj7OFaU4eFg86EXj3Is17q0SjbEQP1wmQfx2U)
 
-![CS50 Python](https://img.shields.io/badge/CS50-Python-Completed-brightgreen?logo=harvard&style=for-the-badge)
-
-[View Certificate](https://certificates.cs50.io/999f189a-bb5e-470b-bf5b-9f210436d409.png?size=letter)
 ## Courses Included
 - CS50P: Introduction to Programming with Python
 
