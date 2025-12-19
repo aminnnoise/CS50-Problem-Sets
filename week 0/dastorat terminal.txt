@@ -1,0 +1,8 @@
+ls : yek list az tamam file ha va folder ha mide
+cp : yek file ro copy mikard
+mv : komak mikard uek file ro enteghal bedim
+rm : yek file ro pak mikone
+mkdir : yek poshe baramon ejad mikone
+cd: taghire masire terminal 
+rmdir : pak kardan yek poshe
+clear : tamiz kardan terminal
