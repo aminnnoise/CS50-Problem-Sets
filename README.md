@@ -2,7 +2,7 @@
 This repository contains my solutions to the problem sets from Harvard University's CS50 courses.
 
 ### My Certificate : 
-[My Certificate]https://certificates.cs50.io/999f189a-bb5e-470b-bf5b-9f210436d409.png?size=letter
+[My Certificate](https://certificates.cs50.io/999f189a-bb5e-470b-bf5b-9f210436d409.png?size=letter)
 
 ## Courses Included
 - CS50P: Introduction to Programming with Python
